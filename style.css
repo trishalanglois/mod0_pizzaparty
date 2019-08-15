@@ -1,0 +1,120 @@
+body {
+  background-image: url("https://media.istockphoto.com/vectors/seamless-pizza-slices-vector-id859247734?k=6&m=859247734&s=612x612&w=0&h=gs7a0TPv42TfQHAVzpzGlE8gxZ3L7H2qIUUQbC5Tfqw=");
+  background-attachment: fixed;
+}
+
+h1 {
+  background-color: #000;
+  font-family: 'Permanent Marker', sans-serif;
+  color: #fff;
+  text-transform: capitalize;
+  letter-spacing: 30;
+  text-align: center;
+}
+
+.banner_pictures {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+img.banner_image {
+  width: 350px;
+  height: 250px;
+}
+
+
+h2 {
+  background-color: #000;
+  font-family: 'Permanent Marker', sans-serif;
+  color: #fff;
+  letter-spacing: 4;
+  text-align: center;
+}
+
+p {
+  background-color: #fff;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: #000;
+  border-width: medium;
+  border-color: #000;
+  border-style: solid;
+  padding: 5px;
+}
+
+
+.slice {
+  height: 200px;
+  width: 150px;
+  display: block;
+  margin: auto;
+}
+
+.good_pizza {
+  background-color: #fff;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: #000;
+  border-width: medium;
+  border-color: #000;
+  border-style: solid;
+  padding: 5px;
+}
+
+.best_za {
+  background-color: #fff;
+  font-family: 'Ubutuntu Condensed', sans-serif;
+  color: #000;
+  border-width: medium;
+  border-color: #000;
+  border-style: solid;
+  padding: 5px;
+}
+
+.pizza_form {
+  background-color: #fff;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: #000;
+  border-width: medium;
+  border-color: #000;
+  border-style: solid;
+  padding: 5px;
+}
+
+.recommendation_container {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.budget_za {
+  background-color: #fff;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: #000;
+  border-width: medium;
+  border-color: #000;
+  border-style: solid;
+  padding: 5px;
+  width: 200px;
+}
+
+.midrange_za {
+  background-color: #fff;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: #000;
+  border-width: medium;
+  border-color: #000;
+  border-style: solid;
+  padding: 5px;
+  width: 200px;
+}
+
+.splurge_za {
+  background-color: #fff;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: #000;
+  border-width: medium;
+  border-color: #000;
+  border-style: solid;
+  padding: 5px;
+  width: 200px;
+}
